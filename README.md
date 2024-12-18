@@ -1,6 +1,5 @@
 ## Sales Report :
 
-
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/chandu7508/Excel_Analytics_CodeBasics/blob/main/Sales%20Analytics%20Reports/AtliQ_Hardwares_Customer_Sales_Analysis.pdf)_ 
